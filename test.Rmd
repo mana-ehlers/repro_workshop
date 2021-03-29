@@ -5,7 +5,10 @@ date: "29/03/2021"
 output:
   prettydoc::html_pretty:
     theme: cayman
+  
 ---
+
+##Test header 1
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
